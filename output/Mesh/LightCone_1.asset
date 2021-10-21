@@ -1,0 +1,129 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!43 &4300000
+Mesh:
+  m_Name: LightCone_1
+  serializedVersion: 8
+  m_SubMeshes:
+  - serializedVersion: 2
+    firstByte: 0
+    indexCount: 60
+    topology: 0
+    baseVertex: 0
+    firstVertex: 0
+    vertexCount: 30
+    localAABB:
+      m_Center: {x: 1.192093E-07, y: 0, z: 0}
+      m_Extent: {x: 2.3163, y: 1.851543, z: 2.391151}
+  m_Shapes:
+    vertices: []
+    shapes: []
+    channels: []
+    fullWeights: []
+  m_BindPose: []
+  m_BoneNameHashes:
+  m_RootBoneNameHash: 0
+  m_MeshCompression: 0
+  m_IsReadable: 0
+  m_KeepVertices: 1
+  m_KeepIndices: 1
+  m_IndexFormat: 0
+  m_IndexBuffer: 00000100020001000000030003000400010004000300050005000600040006000500070007000800060008000700090009000a0008000a0009000b000b000c000a000c000b000d000e000f0010000f000e0011001200130014001300120015001600170018001700160019001a001b001c001b001a001d00
+  m_Skin: []
+  m_VertexData:
+    m_CurrentChannels: 155
+    m_VertexCount: 30
+    m_Channels:
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 3
+    - stream: 0
+      offset: 12
+      format: 0
+      dimension: 3
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 24
+      format: 0
+      dimension: 2
+    - stream: 0
+      offset: 32
+      format: 0
+      dimension: 2
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 40
+      format: 0
+      dimension: 4
+    m_DataSize: 1680
+    _typelessdata: 4c3821bfeadcb33fea90acbf6122ecbe817f4c3f1dc1c53e37d9ac3edec00b3c8248123fbe4f543f97a04d3fa3910f3fe0934dbe000080bf8e6a873d7dff1bbdab6f134055226cbf0000000015c1c53eaadc9b3ec06e7e3fc293023f0100003ff9ebbabc8a8d7f3f07335fbd000080bf330c0a3e1eaaa53dab6f13405a22ecbe827f4c3f1dc1c53e37d9ac3ec06e7e3fde06013f45f3063f98a04d3fa1910f3fe9934dbe000080bfb244bbbfa6ff1bbde990acbf55226cbf45b2033416c1c53eaadc9b3edec00b3c0a17253f0000003fdfebbabc8a8d7f3f3f335fbd000080bf330c0a3eced420beab6f13405822ecbe827f4cbf1bc1c53e63347d3ec06e7e3fde06013f7819f23ed4db5ebf4caefb3eef1bbbbc000080bf4b3821bfde9cbdbfeb90acbf5d22ecbe827f4cbf18c1c53e63347d3edec00b3c8248123f14c12e3ed3db5ebf4eaefb3e3e1cbbbc000080bf065d8b3eced420beab6f13405222ec3e867f4cbf18c1c53e7f0f343ec06e7e3f2fdafb3e7819f23ecba45dbff81900bf65618fba000080bfeeb4843fe09cbdbfeb90acbf6022ec3e827f4cbf19c1c53e7f0f343edec00b3ce756d93e12c12e3ec8a45dbffe1900bfce558fba000080bf7e88ae3e81ff1bbdab6f134055226c3f0000000014c1c53ec544d43dc06e7e3f68c0f83e0100003ffc1105bc82f17fbf78e59e3c000080bf795def3fd0ff1bbdee90acbf55226c3fc2b6523411c1c53ec544d43ddec00b3cd8b9b33effffff3e1f1105bc82f17fbf7ee59e3c000080bf075d8b3e1eaaa53dab6f13405a22ec3e847f4c3f1ac1c53e65ce333dc06e7e3f2fdafb3e45f3063f30b35a3f067304bf99984c3d000080bfefb4843fe9dcb33fea90acbf4e22ec3e867f4c3f1cc1c53e65ce333ddec00b3ce656d93ebe4f543f33b35a3f007304bf89984c3d000080bf330c0a3e1eaaa53dab6f13405a22ecbe827f4c3f1dc1c53e1c9af63bc06e7e3fde06013f45f3063fdc25633f9c96d43eeb934d3e000080bf4c3821bfeadcb33fea90acbf6122ecbe817f4c3f1dc1c53e1c9af63bdec00b3c8248123fbe4f543fda25633fa296d43ef4934d3e000080bfe5e1a33f69ce3d3fd29f0d40e847a334f77eb2bd9e067fbf8671b93e557bad3e6258ce3e84892d3f9d067fbfe7d0b13deaebf8bb000080bfc73657bf5f0984bf398d1740e947a334f97eb2bd9e067fbf1c8e293ff53c283f260b173f4aee8b3e9d067fbfe7d0b13dedebf8bb000080bf00882bbfb052693f28ac0c4000000000d37eb2bd9e067fbf1c8e293f557bad3e3c31133fa477373f9d067fbf07d1b13d57e9f8bb000080bf820a8e3f7bcb99bfe780184020d50f351d7fb2bd9c067fbf8671b93ef53c283f350cd63e2424703e9e067fbfc9d0b13de8edf8bb000080bfd3d6b5be47cff43ee47c12400a71ac34da7eb23d9e067f3f8671b93e557bad3ed7150c3f1c281e3f9e067f3f9ed0b13d7febf8bb000080bf126b3a3feed8dabef68e17400871ac34db7eb23d9e067f3f1c8e293ff53c283fba44e73ead82d23e9e067f3f9ed0b13d81ebf8bb000080bf3b1b243fbca1103f7000124000000000ab7eb23d9e067f3f1c8e293f557bad3ee133eb3e8c3a233f9e067f3fbfd0b13dbae8f8bb000080bf203789be87a603bf6d0b1840e5ae2535087fb23d9c067f3f8671b93ef53c283f431e0a3fd25dc83e9e067f3f7dd0b13d10eef8bb000080bf5cd51cbea047263d8ecf1840000000004af87fbfc54c7bbca51ec83e557bad3eba86073faa98043f0000803f60c1972a668b9aad000080bf433e1440ab45e93d9e0819c0000000004af87fbfc24c7bbc2fe7193ff53c283ff6949f3ef4e0083f0000803fe0f2392bc65d3dae000080bfdce6ec3ea047263d8ecf1840000000004af87fbfc54c7bbcd181243f557bad3ec140f33eaa98043f0000803f0000000000000000000080bf423e14c0a945e93d9e0819c0000000004af87fbfc24c7bbce953dd3ef53c283f1d59383ff3e0083f0000803ff30a552b54f558ae000080bfd7fe183d3104893e9e081940377e7bbf984b3fbee7e0be3aa51ec83e557bad3efb39033f9fdb113f331d3f3ee6537bbf02be15bd000080bf8602de3e5dffecbf44f408c0deb97abf30974ebef59b0e3c2fe7193ff53c283fdd90f43ed080b03d85744d3e18227abffa9491bd000080bf02c2133ead79adbe34701840311c7cbf34c231be03c8a1bbd181243f557bad3e14d0003f30dddc3ed2d0313ec5147cbfa87b77bc000080bf2b32adbe5dffec3f90e9eabfac8e7abfeac451beeb56273ce953dd3ef53c283f4db40b3f06636e3ff747503ef7cd79bfbe69a4bd000080bf
+  m_CompressedMesh:
+    m_Vertices:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data:
+      m_BitSize: 0
+    m_UV:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data:
+      m_BitSize: 0
+    m_Normals:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data:
+      m_BitSize: 0
+    m_Tangents:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data:
+      m_BitSize: 0
+    m_Weights:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_NormalSigns:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_TangentSigns:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_FloatColors:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data:
+      m_BitSize: 0
+    m_BoneIndices:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_Triangles:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_UVInfo: 0
+  m_LocalAABB:
+    m_Center: {x: 1.192093E-07, y: 0, z: 0}
+    m_Extent: {x: 2.3163, y: 1.851543, z: 2.391151}
+  m_MeshUsageFlags: 0
+  m_BakedConvexCollisionMesh:
+  m_BakedTriangleCollisionMesh:
+  m_MeshOptimized: 1
